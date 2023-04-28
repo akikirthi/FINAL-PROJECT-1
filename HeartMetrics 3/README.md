@@ -34,7 +34,7 @@ pca_result \<- pca_analysis(heart)
 
 **License**
 
-This package is licensed under the MIT License. See the LICENSE file for more information.
+This package is licensed under the GPL-3 License. See the LICENSE file for more information.
 
 **Contributing**
 
